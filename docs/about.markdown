@@ -26,7 +26,7 @@ Ajay currently leads the Platform Engineering and Cloud Practice for ThoughtWork
 
 With 30 years of executive leadership, consulting, and engineering experience in roles ranging from the courtroom to the boardroom, as a former CEO, VP, Chief Counsel, Director, or entrepreneur in startup, private, and publicly traded companies, Nic brings a unique perspective to technology strategy and implementation.  
 
-Nic is the founding infrastructure contributor to ThoughWorks Digital Platform Strategy and works with many of TW’s most strategic clients in bringing about the organizational change, engineering maturity, and technical product thinking necessary for competitive success in highly disrupted markets. In his time at ThoughtWorks, Nic has helped define, build, and evolve the TW definition of Engineering Platforms and has been a featured speaker at CdCon, GitOpsCon, XConf NY, CodeFreeze, ChefConf, and SGConf/Expo.  
+Nic is the founding infrastructure contributor to ThoughWorks Digital Platform Strategy and works as a Principal Architect and strategist with many of TW’s most strategic clients in bringing about the organizational change, engineering maturity, and technical product thinking necessary for competitive success in highly disrupted markets. In his time at ThoughtWorks, Nic has helped define, build, and evolve the TW definition of Engineering Platforms and has been a featured speaker at CdCon, GitOpsCon, XConf NY, CodeFreeze, ChefConf, and SGConf/Expo.  
 
 **Bryan Oliver**, _Principal, Platform Engineering_, ThoughtWorks, Inc.   
 
