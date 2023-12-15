@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Comming Soon!
   
   Companion code site for upcoming Manning publication: Effective Platform Engineering.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/docs/" # the subpath of your site, e.g. /blog
 url: "https://effective-platform-engineering.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: effective-platform-engineering.github.io
 # Build settings
